@@ -1,8 +1,8 @@
 
 :root {
-    --gradient-1-token: linear-gradient(
-          180deg,
-          #00000000 0%,   
+    --gradient-1-token: radial-gradient(
+          circle at center,
+          #40506e31 97.5%,   
           #000000 100%  
         )
         ;     
