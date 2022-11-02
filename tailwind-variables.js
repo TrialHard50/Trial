@@ -213,5 +213,6 @@ module.exports = {
     },
     'boxShadow': {
         'Shad1': 'var(--shadow-shad1)', 
+        'Shadow-text-button': 'var(--shadow-shadow-text-button)', 
     }
 }
