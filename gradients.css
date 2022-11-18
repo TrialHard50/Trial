@@ -1,9 +1,9 @@
 
 :root {
-    --gradient1Token: linear-gradient(
+    --gradient-1-token: linear-gradient(
           180deg,
           #40506e31 0%,   
           #222190 68.7%  
         )
-        ;    
+        ;     
 }
