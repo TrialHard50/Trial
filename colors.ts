@@ -162,10 +162,10 @@ const semanticOpportunityOpportunityBackground = "#d5f6ef";
 const semanticPrimaryPrimaryInnactivebackground = "#d8d8f6";
 const semanticPrimaryPrimaryBorder = "#6b62cc";
 const semanticPrimaryHoverinnactivebackground = "#c0c2f3";
-const semanticSaleSale70Background = "#f6be41";
-const semanticSaleSale50Background = "#de638b";
-const semanticSaleSale30Background = "#58c1b2";
-const semanticSaleSaleColor = "#ffffff";
+const semanticSaleSale70Background = "#ac7d13";
+const semanticSaleSale50Background = "#b51d4e";
+const semanticSaleSale30Background = "#5869c1";
+const semanticSaleSaleColor = "#b7b7b7";
 
 export const Colors = {
     paletteGreenGreen1100,

@@ -150,6 +150,156 @@ const sale = {
                         css: "0px"
                        },
          };
+const largeLead = {
+           fontFamily: "Advent Pro",
+           fontStyle: "normal",
+           fontWeight: 400,
+           fontSize: {
+                      measure: 24,
+                      unit: "Pixels",
+                      css: "24px"
+                     },
+           lineHeight: {
+                          measure: 32,
+                          unit: "Pixels",
+                          css: "32px"
+                         },
+           letterSpacing: {
+                             measure: 0,
+                             unit: "Percent",
+                             css: "0%"
+                            },
+           textIndent: {
+                        measure: 0,
+                        unit: "Pixels",
+                        css: "0px"
+                       },
+         };
+const mediumLead = {
+           fontFamily: "Advent Pro",
+           fontStyle: "normal",
+           fontWeight: 400,
+           fontSize: {
+                      measure: 21,
+                      unit: "Pixels",
+                      css: "21px"
+                     },
+           lineHeight: {
+                          measure: 29,
+                          unit: "Pixels",
+                          css: "29px"
+                         },
+           letterSpacing: {
+                             measure: 0,
+                             unit: "Percent",
+                             css: "0%"
+                            },
+           textIndent: {
+                        measure: 0,
+                        unit: "Pixels",
+                        css: "0px"
+                       },
+         };
+const buttonLabel = {
+           fontFamily: "Advent Pro",
+           fontStyle: "normal",
+           fontWeight: 400,
+           fontSize: {
+                      measure: 21,
+                      unit: "Pixels",
+                      css: "21px"
+                     },
+           lineHeight: {
+                          measure: 29,
+                          unit: "Pixels",
+                          css: "29px"
+                         },
+           letterSpacing: {
+                             measure: 0,
+                             unit: "Percent",
+                             css: "0%"
+                            },
+           textIndent: {
+                        measure: 0,
+                        unit: "Pixels",
+                        css: "0px"
+                       },
+         };
+const paragraph = {
+           fontFamily: "Advent Pro",
+           fontStyle: "normal",
+           fontWeight: 400,
+           fontSize: {
+                      measure: 18,
+                      unit: "Pixels",
+                      css: "18px"
+                     },
+           lineHeight: {
+                          measure: 26,
+                          unit: "Pixels",
+                          css: "26px"
+                         },
+           letterSpacing: {
+                             measure: 0,
+                             unit: "Percent",
+                             css: "0%"
+                            },
+           textIndent: {
+                        measure: 0,
+                        unit: "Pixels",
+                        css: "0px"
+                       },
+         };
+const smallParagraph = {
+           fontFamily: "Advent Pro",
+           fontStyle: "normal",
+           fontWeight: 400,
+           fontSize: {
+                      measure: 16,
+                      unit: "Pixels",
+                      css: "16px"
+                     },
+           lineHeight: {
+                          measure: 24,
+                          unit: "Pixels",
+                          css: "24px"
+                         },
+           letterSpacing: {
+                             measure: 0,
+                             unit: "Percent",
+                             css: "0%"
+                            },
+           textIndent: {
+                        measure: 0,
+                        unit: "Pixels",
+                        css: "0px"
+                       },
+         };
+const tinyParagraph = {
+           fontFamily: "Advent Pro",
+           fontStyle: "normal",
+           fontWeight: 400,
+           fontSize: {
+                      measure: 12,
+                      unit: "Pixels",
+                      css: "12px"
+                     },
+           lineHeight: {
+                          measure: 24,
+                          unit: "Pixels",
+                          css: "24px"
+                         },
+           letterSpacing: {
+                             measure: 0,
+                             unit: "Percent",
+                             css: "0%"
+                            },
+           textIndent: {
+                        measure: 0,
+                        unit: "Pixels",
+                        css: "0px"
+                       },
+         };
 
 
 export const Typographies = {
@@ -159,4 +309,10 @@ export const Typographies = {
       h4,
       h5,
       sale,
+      largeLead,
+      mediumLead,
+      buttonLabel,
+      paragraph,
+      smallParagraph,
+      tinyParagraph,
 }
