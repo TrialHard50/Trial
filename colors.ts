@@ -166,7 +166,6 @@ const semanticSaleSale70Background = "#ac7d13";
 const semanticSaleSale50Background = "#b51d4e";
 const semanticSaleSale30Background = "#5869c1";
 const semanticSaleSaleColor = "#b7b7b7";
-const _5a52b4 = "#5ff547";
 
 export const Colors = {
     paletteGreenGreen1100,
@@ -341,5 +340,4 @@ export const Colors = {
     semanticSaleSale50Background,
     semanticSaleSale30Background,
     semanticSaleSaleColor,
-    _5a52b4,
 }
